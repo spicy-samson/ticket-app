@@ -3,8 +3,29 @@ class Assets {
   Assets._();
 
   static const String baseBottomNavBar = 'lib/base/bottom_nav_bar.dart';
+  static const String baseMedia = 'lib/base/media.dart';
   static const String generatedAssets = 'lib/generated/assets.dart';
+  static const String imagesCityView = 'assets/images/city_view.png';
+  static const String imagesCityView2 = 'assets/images/city_view_2.png';
+  static const String imagesCityView3 = 'assets/images/city_view_3.png';
+  static const String imagesHotelRoom = 'assets/images/hotel_room.png';
+  static const String imagesHotelRoom1 = 'assets/images/hotel_room_1.png';
+  static const String imagesHotelRoomView1 =
+      'assets/images/hotel_room_view_1.png';
+  static const String imagesHotelRoomView2 =
+      'assets/images/hotel_room_view_2.png';
+  static const String imagesHotelRoomView3 =
+      'assets/images/hotel_room_view_3.png';
+  static const String imagesLogo = 'assets/images/logo.png';
+  static const String imagesPlaneSit = 'assets/images/plane_sit.jpg';
+  static const String imagesPoolView = 'assets/images/pool_view.png';
+  static const String imagesPoolView1 = 'assets/images/pool_view_1.png';
+  static const String imagesPoolView2 = 'assets/images/pool_view_2.png';
+  static const String imagesPoolView3 = 'assets/images/pool_view_3.png';
+  static const String imagesVisaCard = 'assets/images/visa_card.png';
   static const String libMain = 'lib/main.dart';
   static const String screensHomeScreen = 'lib/screens/home_screen.dart';
   static const String stylesAppStyles = 'lib/base/res/styles/app_styles.dart';
+  static const String widgetsAppDoubleText =
+      'lib/base/widgets/app_double_text.dart';
 }

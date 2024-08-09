@@ -90,5 +90,8 @@ flutter:
     - lib/
     - lib/base/
     - assets/images/
+    - lib/base/res/
+    - lib/base/res/styles/
+    - lib/base/widgets/
 
 

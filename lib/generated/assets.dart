@@ -26,6 +26,17 @@ class Assets {
   static const String libMain = 'lib/main.dart';
   static const String screensHomeScreen = 'lib/screens/home_screen.dart';
   static const String stylesAppStyles = 'lib/base/res/styles/app_styles.dart';
+  static const String widgetsAppColumnTextLayout =
+      'lib/base/widgets/app_column_text_layout.dart';
   static const String widgetsAppDoubleText =
       'lib/base/widgets/app_double_text.dart';
+  static const String widgetsAppLayoutbuilderWidget =
+      'lib/base/widgets/app_layoutbuilder_widget.dart';
+  static const String widgetsBigCircle = 'lib/base/widgets/big_circle.dart';
+  static const String widgetsBigDot = 'lib/base/widgets/big_dot.dart';
+  static const String widgetsTextStyleFourth =
+      'lib/base/widgets/text_style_fourth.dart';
+  static const String widgetsTextStyleThird =
+      'lib/base/widgets/text_style_third.dart';
+  static const String widgetsTicketView = 'lib/base/widgets/ticket_view.dart';
 }

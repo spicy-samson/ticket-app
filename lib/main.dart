@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ticket_app/base/bottom_nav_bar.dart';
+import 'package:ticket_app/screens/all_tickets.dart';
 
 void main() {
   var myList = [
@@ -24,9 +25,9 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: const BottomNavBar(),
-    );
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        home: BottomNavBar(),
+        routes: {"/all_tickets": (context) => const AllTickets()});
   }
 }

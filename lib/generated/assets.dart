@@ -24,8 +24,10 @@ class Assets {
   static const String imagesPoolView3 = 'assets/images/pool_view_3.png';
   static const String imagesVisaCard = 'assets/images/visa_card.png';
   static const String libMain = 'lib/main.dart';
+  static const String screensAllTickets = 'lib/screens/all_tickets.dart';
   static const String screensHomeScreen = 'lib/screens/home_screen.dart';
   static const String stylesAppStyles = 'lib/base/res/styles/app_styles.dart';
+  static const String utilsAllJson = 'lib/utils/all_json.dart';
   static const String widgetsAppColumnTextLayout =
       'lib/base/widgets/app_column_text_layout.dart';
   static const String widgetsAppDoubleText =
